@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @julesdotnet, male 17y/o, austrian, and program mainly in Java
-- 👀 I’m interested in Game Dev/Desktop Apps
-- 🌱 Using Java, Rust, Python, JS/HTML/CSS, SQL, PHP. 
+Hey, I'm Julian. I write code in Java :coffee:, Rust 🦀, Python 🐍 and sometimes JavaScript (HTML and CSS don't count obviously). I specialize in 3D-Rendering applications, and have written Rasterizers including Texture Mapping from Scratch. Sometimes I make dynamic websites using Flask (and previously PHP), for example GitShit, a fun tool that allows you to post your very code from the command line. The name obviously suggests that the site isintended for bad, unstructured code back from times when one was worse at programming, a fun way to look back at the progress you made, so to speak.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=julesdotnet&theme=neon&show_icons=true&hide_border=true&count_private=true)
-
+**Upcoming projects:**
+- Rust based rocketry simulator, rendered using Vulkan
+- Something along the lines of stock price prediction, sounds like a ton of fun
