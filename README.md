@@ -42,9 +42,8 @@
 <a href="https://discord.gg/julesdotnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".dxxns" height="30" width="40" /></a>
 <a href="mailto:julian.rieder@outlook.de">
   <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/maildotru.svg"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/microsoftoutlook.svg"
     width="20"
-    alt="Email"
+    alt="Outlook"
   />
 </a>
-
