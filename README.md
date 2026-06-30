@@ -6,7 +6,7 @@
   <li>i'm 17 and live in the big Österreich 🇦🇹</li>
   <li>
     Main langs:
-    🦀 Rust <i>(arguably the best there is)</i>,
+    🦀 Rust <i>(my beloved)</i>,
     ☕ Java
   </li>
   <li>
@@ -33,7 +33,7 @@
   width="48"
   height="48"
 />
-
+</br>
 <h2>Technologies I have used</h2>
 
 [![All the technologies I have worked with:](https://skillicons.dev/icons?i=rust,java,python,html,css,js,php,flask,git,svn,eclipse,vscode,zed,mysql,bootstrap,docker,linux,blender,arduino)](https://skillicons.dev)
