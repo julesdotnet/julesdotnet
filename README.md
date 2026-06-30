@@ -36,7 +36,15 @@
 </br>
 <h2>Technologies I have used</h2>
 
-[![All the technologies I have worked with:](https://skillicons.dev/icons?i=rust,java,python,html,css,js,php,flask,git,eclipse,vscode,zed,mysql,bootstrap,docker,linux,blender,arduino)](https://skillicons.dev)
+[![All the technologies I have worked with:](https://skillicons.dev/icons?i=rust,java,python,html,css,js,php,flask,git,eclipse,vscode,mysql,mariadb,bootstrap,docker,linux,blender,arduino)](https://skillicons.dev)
 
 <h2>Contact me twin</h2>
 <a href="https://discord.gg/julesdotnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".dxxns" height="30" width="40" /></a>
+<a href="mailto:julian.rieder@outlook.de">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/maildotru.svg"
+    width="20"
+    alt="Email"
+  />
+</a>
+
