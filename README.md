@@ -1,1 +1,11 @@
-Hey, I'm Julian. I write code in Java :coffee:, Rust 🦀, Python 🐍 and sometimes JavaScript (HTML and CSS don't count obviously). I specialize in 3D-Rendering applications, and have written Rasterizers including Texture Mapping from Scratch. Sometimes I make dynamic websites using Flask (and previously PHP), for example GitShit, a fun tool that allows you to post your very code from the command line. The name obviously suggests that the site is intended for bad, unstructured code back from times when one was worse at programming, a fun way to look back at the progress you made, so to speak.
+#Hey, I'm Julian
+
+Basic stuff about me:
+- im 17 and live in the big österreich
+- Main langs: Rust, Java
+- Side langs: Python, JS, a bit of C#
+- i do not tolerate java slander, it's really good akshualley
+- every day i wake up and imagine a world where all apps are native (Electron sucks)
+- pop! os user btw
+
+[![All the technologies I have worked with:](https://skillicons.dev/icons?i=rust,java,python,html,css,js,php,flask,git,svn,eclipse,vscode,zed,mysql,mariadb,bootstrap,docker,linux,blender,arduino)](https://skillicons.dev)
