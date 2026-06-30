@@ -42,7 +42,7 @@
 <a href="https://discord.gg/julesdotnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".dxxns" height="30" width="40" /></a>
 <a href="mailto:julian.rieder@outlook.de">
   <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/microsoftoutlook.svg"
+    src="[https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/microsoftoutlook.svg](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Ficon-email-icon-clip-art-at-clker-com-vector-qafaq-e-mail-icon-trace--0.png&f=1&nofb=1&ipt=5336b99f24b5a440fc7f736c12aff4538db99083bdba0d446e7cd99599a64ad2)"
     width="20"
     alt="Outlook"
   />
