@@ -19,7 +19,7 @@
     java is really good actually
   </li>
   <li>
-    make apps native again
+    make apps native again (or at least fast)
   </li>
   <li>
     Pop!_OS user btw
