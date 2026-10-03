@@ -3,10 +3,10 @@
 <h2>Basic stuff about me:</h2>
 
 <ul>
-  <li>i'm 17 and live in the big Österreich 🇦🇹</li>
+  <li>i'm 18 and live in Österreich 🇦🇹</li>
   <li>
     Main langs:
-    🦀 Rust <i>(my beloved)</i>,
+    🦀 Rust,
     ☕ Java
   </li>
   <li>
@@ -16,11 +16,10 @@
     a bit of 🎵 C#
   </li>
   <li>
-    i do <b>not</b> tolerate Java slander, it's really good akshualley
+    java is really good actually
   </li>
   <li>
-    every day i wake up and imagine a world where all apps are native
-    (Electron sucks)
+    make apps native again
   </li>
   <li>
     Pop!_OS user btw
